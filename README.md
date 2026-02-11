@@ -18,7 +18,7 @@
 - **[cachified-adapter-cloudflare-kv](https://github.com/AdiRishi/cachified-adapter-cloudflare-kv)** — The official Cloudflare KV adapter for [@epic-web/cachified](https://github.com/epicweb-dev/cachified).
 - **[RenderMD](https://github.com/AdiRishi/render-md)** — A real-time markdown editor with live preview, LaTeX math, and syntax highlighting. Built with TanStack Start, deployed on Cloudflare.
 
-## Start Repositories
+## Starter Repositories
 
 I enjoy making repositories that are good kicking off points for new projects. Here are a few I use for myself.
 
@@ -34,6 +34,6 @@ I enjoy making repositories that are good kicking off points for new projects. H
 ## Connect
 
 [![Twitter](https://img.shields.io/badge/-@AdishwarR-1DA1F2?style=flat-square&logo=twitter&logoColor=white)](https://twitter.com/AdishwarR)
-[![LinkedIn](https://img.shields.io/badge/-Adishwar_Rishi-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/adishwar-rishi)
+[![LinkedIn](https://img.shields.io/badge/-Adishwar_Rishi-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/adishwar-rishi-8a832498/)
 [![Website](https://img.shields.io/badge/-adishwar--rishi.com-FF5722?style=flat-square&logo=google-chrome&logoColor=white)](https://www.adishwar-rishi.com)
 [![GitHub](https://img.shields.io/badge/-Follow-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/AdiRishi)
