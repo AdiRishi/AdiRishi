@@ -23,6 +23,7 @@
 I enjoy making repositories that are good kicking off points for new projects. Here are a few I use for myself.
 
 - **[expo-uniwind-starter](https://github.com/AdiRishi/expo-uniwind-starter)** — Cross-platform app starter with Expo, Tailwind CSS v4 via Uniwind, and HeroUI Native.
+- **[tanstack-spacetimedb-starter](https://github.com/AdiRishi/tanstack-spacetimedb-starter)** — Full-stack real-time app starter with TanStack Start, SpacetimeDB, Tailwind CSS v4, and shadcn/ui. Type-safe routing, reactive database sync, zero boilerplate.
 
 ## What I'm Up To
 
