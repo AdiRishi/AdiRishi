@@ -29,8 +29,8 @@ I enjoy making repositories that are good kicking off points for new projects. H
 
 - Building payments infrastructure at **Airwallex**
 - Exploring **React Native / Expo** for cross-platform development
-- Maintaining open source tooling for the **Cloudflare** ecosystem
-- Tinkering with monorepos, edge caching, and developer experience
+- Maintaining open source tooling for the web
+- Tinkering with these cool new "live databases" like Convex and SpacetimeDB
 
 ## Connect
 
