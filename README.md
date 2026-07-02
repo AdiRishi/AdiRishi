@@ -23,6 +23,7 @@
 
 I enjoy making repositories that are good kicking off points for new projects. Here are a few I use for myself.
 
+- **[electron-effect-starter](https://github.com/AdiRishi/electron-effect-starter)** — Desktop app starter with Electron and Effect v4. Shell-supervised local server, schema-typed RPC and IPC, one React build that runs in the shell and the browser.
 - **[expo-uniwind-starter](https://github.com/AdiRishi/expo-uniwind-starter)** — Cross-platform app starter with Expo, Tailwind CSS v4 via Uniwind, and HeroUI Native.
 - **[tanstack-spacetimedb-starter](https://github.com/AdiRishi/tanstack-spacetimedb-starter)** — Real-time full-stack starter with TanStack Start and SpacetimeDB. Reactive sync, type-safe routing, zero boilerplate.
 
