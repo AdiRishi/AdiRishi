@@ -25,6 +25,7 @@ I enjoy making repositories that are good kicking off points for new projects. H
 
 - **[electron-effect-starter](https://github.com/AdiRishi/electron-effect-starter)** — Desktop app starter with Electron and Effect v4. Shell-supervised local server, schema-typed RPC and IPC, one React build that runs in the shell and the browser.
 - **[expo-uniwind-starter](https://github.com/AdiRishi/expo-uniwind-starter)** — Cross-platform app starter with Expo, Tailwind CSS v4 via Uniwind, and HeroUI Native.
+- **[tanstack-start-starter](https://github.com/AdiRishi/tanstack-start-starter)** — Full-stack React starter with TanStack Start, Tailwind CSS v4, and shadcn/ui. Type-safe routing, strict TypeScript, Oxc tooling.
 - **[tanstack-spacetimedb-starter](https://github.com/AdiRishi/tanstack-spacetimedb-starter)** — Real-time full-stack starter with TanStack Start and SpacetimeDB. Reactive sync, type-safe routing, zero boilerplate.
 
 ## What I'm Up To
