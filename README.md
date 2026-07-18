@@ -14,7 +14,7 @@
 
 ## Projects
 
-- **[Zen](https://github.com/AdiRishi/zen-meditation)** — A quiet meditation companion for building a regular practice through gentle timers, subtle reminders, and encouraging progress.
+- **[Moss](https://github.com/AdiRishi/moss-meditation)** — A quiet meditation companion for building a regular practice through gentle timers, subtle reminders, and encouraging progress.
 - **[turborepo-remote-cache-cloudflare](https://github.com/AdiRishi/turborepo-remote-cache-cloudflare)** — Turborepo remote cache server purpose-built for Cloudflare Workers. R2 or KV storage, global deployment, generous free tier.
 - **[cachified-adapter-cloudflare-kv](https://github.com/AdiRishi/cachified-adapter-cloudflare-kv)** — The official Cloudflare KV adapter for [@epic-web/cachified](https://github.com/epicweb-dev/cachified).
 - **[RenderMD](https://github.com/AdiRishi/render-md)** — A real-time markdown editor with live preview, LaTeX math, and syntax highlighting. Built with TanStack Start, deployed on Cloudflare.
