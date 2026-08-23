@@ -12,6 +12,10 @@
 
 > I build tools for the edge. Most of my open source work lives at the intersection of Cloudflare's platform and the JavaScript ecosystem.
 
+## Building Room to Ask
+
+**Room to Ask** is a moderator-first audience question queue for live panels, town halls, and other events. People can ask without an account or a microphone. Moderators keep human judgment over what reaches the stage.
+
 ## Projects
 
 - **[Moss](https://github.com/AdiRishi/moss-meditation)** — A quiet meditation companion for building a regular practice through gentle timers, subtle reminders, and encouraging progress.
@@ -32,9 +36,9 @@ I enjoy making repositories that are good kicking off points for new projects. H
 ## What I'm Up To
 
 - Building payments infrastructure at **Airwallex**
+- Building **Room to Ask** with SpacetimeDB and Cloudflare Workers
 - Exploring **React Native / Expo** for cross-platform development
 - Maintaining open source tooling for the web
-- Tinkering with these cool new "live databases" like Convex and SpacetimeDB
 
 ## Connect
 
