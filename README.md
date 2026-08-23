@@ -24,7 +24,7 @@
 
 I enjoy making repositories that are good kicking off points for new projects. Here are a few I use for myself.
 
-- **[application-platform-starter](https://github.com/AdiRishi/application-platform-starter)** — Cloudflare application starter for projects that have outgrown one Worker and one web app. Alchemy manages the resource graph, Effect keeps contracts typed across runtimes, and Turborepo coordinates the workspace.
+- **[application-platform-starter](https://github.com/AdiRishi/application-platform-starter)** — A TypeScript monorepo for Cloudflare applications that have outgrown one Worker and one web app.
 - **[electron-effect-starter](https://github.com/AdiRishi/electron-effect-starter)** — Desktop app starter with Electron and Effect v4. Shell-supervised local server, schema-typed RPC and IPC, one React build that runs in the shell and the browser.
 - **[expo-uniwind-starter](https://github.com/AdiRishi/expo-uniwind-starter)** — Cross-platform app starter with Expo, Tailwind CSS v4 via Uniwind, and HeroUI Native.
 - **[tanstack-start-starter](https://github.com/AdiRishi/tanstack-start-starter)** — Full-stack React starter with TanStack Start, Tailwind CSS v4, and shadcn/ui. Type-safe routing, strict TypeScript, Oxc tooling.
