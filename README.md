@@ -14,6 +14,7 @@
 
 ## Projects
 
+- **[dotagents](https://github.com/AdiRishi/dotagents)** — How I like software built, written down for my agents. Steal whatever's useful.
 - **[Moss](https://github.com/AdiRishi/moss-meditation)** — A quiet meditation companion for building a regular practice through gentle timers, subtle reminders, and encouraging progress.
 - **[turborepo-remote-cache-cloudflare](https://github.com/AdiRishi/turborepo-remote-cache-cloudflare)** — Turborepo remote cache server purpose-built for Cloudflare Workers. R2 or KV storage, global deployment, generous free tier.
 - **[cachified-adapter-cloudflare-kv](https://github.com/AdiRishi/cachified-adapter-cloudflare-kv)** — The official Cloudflare KV adapter for [@epic-web/cachified](https://github.com/epicweb-dev/cachified).
@@ -35,6 +36,7 @@ I enjoy making repositories that are good kicking off points for new projects. H
 - Building payments infrastructure at **Airwallex**
 - Exploring **React Native / Expo** for cross-platform development
 - Maintaining open source tooling for the web
+- Teaching coding agents to write code I'd actually approve in review
 - Tinkering with these cool new "live databases" like Convex and SpacetimeDB
 
 ## Connect
